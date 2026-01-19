@@ -1,17 +1,28 @@
-Hi there, I'm Thành Đạt 👋
+# Hi there, I'm Thành Đạt 👋
 
-### A passionate Python Developer from Vietnam
-
-- 🔭 I’m currently working on **Personal Portfolio**
-- 🌱 I’m currently learning **Advanced Backend Architecture**
-- 💬 Ask me about **Python & Data Structures**
-- 📫 How to reach me: **your-email@gmail.com**
+### 👨‍💻 About Me
+- 🔭 I’m currently focused on **Python,C++,Java,Html5,C Development**.
+- 🌱 Learning and improving my skills in **Backend** and **System Programming**.
+- ⚡ Fun fact: I love building efficient and clean code.
 
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Racket](https://img.shields.io/badge/Racket-red?style=for-the-badge)
 
+#### 🚀 Languages & Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23E24329.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![JSFiddle](https://img.shields.io/badge/JSFiddle-333333?style=for-the-badge&logo=jsfiddle&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
@@ -20,5 +31,9 @@ Hi there, I'm Thành Đạt 👋
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiyeuem24092012N&layout=compact&theme=tokyonight" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
+---
+
+### 📫 Get in touch
+- **Email:** [thanhdat01404@gmail.com](mailto:thanhdat01404@gmail.com)
