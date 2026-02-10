@@ -27,11 +27,12 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight" alt="Thành Đạt's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&cache_seconds=1800" />" alt="Thành Đạt's GitHub stats" />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!)](https://git.io/typing-svg)
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 ---
 
