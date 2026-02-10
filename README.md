@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight" alt="Thành Đạt's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-k8smspnop-maiyeuem24092012s-projects.vercel.app" alt="Thành Đạt's GitHub stats" height="150" />
+  <img src="https://github-readme-stats-k8smspnop-maiyeuem24092012s-projects.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
