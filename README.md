@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight" alt="Nhat Anh's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight" alt="Thành Đạt's GitHub stats" />
 </p>
 
 <p align="left">
