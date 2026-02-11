@@ -28,6 +28,7 @@
 
 ### 🚀 My Activity
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!)](https://git.io/typing-svg)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TEN_USER_CUA_BAN&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
