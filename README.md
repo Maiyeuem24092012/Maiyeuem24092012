@@ -20,16 +20,14 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-k8smspnop-maiyeuem24092012s-projects.vercel.app" alt="Thành Đạt's GitHub stats" height="150" />
   <img src="https://github-readme-stats-k8smspnop-maiyeuem24092012s-projects.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
 
 ### 🚀 My Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight)](https://git.io/streak-stats)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!)](https://git.io/typing-svg)
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Maiyeuem24092012&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 Get in touch
