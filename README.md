@@ -39,9 +39,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" />
 </p>
+---
 
+### 🗓️ My 3D Contributions
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!;Thanks+for+watching!" alt="Typing SVG" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="github profile 3d contrib" width="60%" />
 </p>
 
 ---
