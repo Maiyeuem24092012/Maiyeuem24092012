@@ -19,15 +19,26 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-k8smspnop-maiyeuem24092012s-projects.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="50%" />
 </p>
 
 ---
 
 ### 🚀 My Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight)](https://git.io/streak-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 📫 Get in touch
