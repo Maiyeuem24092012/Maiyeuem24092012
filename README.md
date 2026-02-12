@@ -1,5 +1,5 @@
 # Hi there, I'm Thành Đạt 👋
-
+![Hello](docs/hello.svg)
 ### 👨‍💻 About Me
 - 🔭 I’m currently focused on **Python, C++, Java, Html5, C Development**.
 - 🌱 Learning and improving my skills in **Backend** and **System Programming**.
