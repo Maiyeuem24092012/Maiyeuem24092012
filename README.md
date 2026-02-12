@@ -25,9 +25,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="60%" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" width="60%" />
+</p>
 ---
 
 ### 🚀 My Activity
@@ -36,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+passion;Check+out+my+projects!;Thanks+for+watching!" alt="Typing SVG" />
 </p>
 
 ---
