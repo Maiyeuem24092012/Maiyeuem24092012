@@ -20,28 +20,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="60%" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" width="60%" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="100%" />
+  </p>
 
 ---
 
 ### 🚀 My Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" />
-</p>
--100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" width="90%" />
 </p>
 
+---
+### 🗓️ My 3D Contributions
+<p align="left">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="80%" alt="3D Contrib" />
+</p>
 ---
 
 ### 📫 Get in touch
