@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&layout=compact&theme=tokyonight" alt="Top Langs" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&theme=tokyonight" height="200" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" height="200" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="100%" />
   </p>
 
