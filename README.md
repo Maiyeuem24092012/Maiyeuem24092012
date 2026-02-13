@@ -39,11 +39,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" />
 </p>
----
-
-### 🗓️ My 3D Contributions
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="github profile 3d contrib" width="60%" />
+-100%" />
 </p>
 
 ---
