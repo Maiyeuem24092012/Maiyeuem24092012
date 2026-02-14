@@ -20,7 +20,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&theme=tokyonight" height="200" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maiyeuem24092012&theme=tokyonight" height="195" alt="Top Langs" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Maiyeuem24092012&show_icons=true&theme=tokyonight&count_private=true" height="200" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maiyeuem24092012&theme=tokyonight" alt="Summary Card" width="100%" />
   </p>
@@ -30,7 +30,7 @@
 ### 🚀 My Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maiyeuem24092012&theme=tokyonight" alt="GitHub Streak" widt90"80%" />
 </p>
 
 ---
